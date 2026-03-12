@@ -1,3 +1,9 @@
+table{
+  width: 80%;
+  margin 0 auto 2em auto;
+  border-collapse:collapse;
+  text-align: center;
+}
 h1{
   color: green;
 }
